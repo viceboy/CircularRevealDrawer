@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="err_layout">Width and Height should match the screen height and width excluding status bar</string>
+</resources>

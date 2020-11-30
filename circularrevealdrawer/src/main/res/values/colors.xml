@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4E0D3A</color>
+    <color name="colorPrimaryDark">#4E0D3A</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="indigo">#5D1049</color>
+    <color name="primary">#4E0D3A</color>
+    <color name="dark_scrim">#4D000000</color>
+    <color name="inner_indigo">#720D5D</color>
+</resources>

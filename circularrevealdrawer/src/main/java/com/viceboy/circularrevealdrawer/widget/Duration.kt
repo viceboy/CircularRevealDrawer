@@ -1,0 +1,13 @@
+package com.viceboy.circularrevealdrawer.widget
+
+internal const val DURATION_OUTER_CIRCLE_START_DELAY = 120L
+internal const val DURATION_OUTER_CIRCLE_ANIMATION = 500L
+
+internal const val DURATION_INNER_CIRCLE_ANIMATION = 800L
+internal const val DURATION_INNER_CIRCLE_START_DELAY = 160L
+
+const val DURATION_STAGGER_HIDE = 300L
+const val DURATION_STAGGER_REVEAL = 400L
+const val DURATION_STAGGER_REVEAL_DELAY = 100L
+
+const val DURATION_MENU_COLLAPSE_DELAY = 100L

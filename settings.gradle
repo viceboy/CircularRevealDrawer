@@ -1,0 +1,3 @@
+include ':CircularRevealDrawer'
+include ':app'
+rootProject.name = "SampleRevealDrawer"

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SampleRevealDrawer</string>
+    <string name="trip_summary">Trip Summary</string>
+    <string name="par_nyc">PAR - NYC</string>
+    <string name="_4_000">$ 4,000</string>
+    <string name="flight_details">Flight Details</string>
+    <string name="hotel_details">Hotel Details</string>
+    <string name="price">Price :</string>
+    <string name="departure">Departure</string>
+    <string name="edit_info"><u>Edit info</u></string>
+    <string name="_6_25_am_n7_50_am">6:25 am \n7:50 am</string>
+    <string name="_12_10_am_n9_15_am">12:10 pm \n21:15 pm</string>
+    <string name="paris_cdg_nmunich_muc">Paris CDG\nMunich MUC</string>
+    <string name="nmunich_muc">Munich MUC\nNew York NY</string>
+    <string name="_4h_20m"> 4 h  20 m </string>
+
+    <array name="menuItems">
+        <item>Home</item>
+        <item>About Us</item>
+        <item>Wallet</item>
+        <item>My Trips</item>
+        <item>Contributors</item>
+        <item>Privacy Policy</item>
+        <item>Logout</item>
+    </array>
+</resources>

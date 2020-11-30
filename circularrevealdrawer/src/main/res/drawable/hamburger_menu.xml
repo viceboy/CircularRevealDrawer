@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/hamburgerBg" android:width="56dp"
+        android:height="64dp">
+        <shape android:shape="rectangle">
+            <corners
+                android:bottomRightRadius="16dp"
+                android:topRightRadius="16dp" />
+            <solid android:color="@color/indigo" />
+        </shape>
+    </item>
+
+    <item
+        android:id="@+id/hamburgerInnerBar_1"
+        android:width="20dp"
+        android:left="12dp"
+        android:bottom="8dp"
+        android:height="2dp"
+        android:gravity="center_vertical">
+        <shape android:shape="rectangle">
+            <corners android:radius="4dp" />
+            <solid android:color="@android:color/white" />
+        </shape>
+    </item>
+
+    <item
+        android:id="@+id/hamburgerInnerBar_2"
+        android:width="20dp"
+        android:left="16dp"
+        android:top="8dp"
+        android:height="2dp"
+        android:gravity="center_vertical">
+        <shape android:shape="rectangle">
+            <corners android:radius="4dp" />
+            <solid android:color="@android:color/white" />
+        </shape>
+    </item>
+</layer-list>
