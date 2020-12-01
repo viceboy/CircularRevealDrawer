@@ -4,8 +4,8 @@
     <declare-styleable name="CircularRevealDrawer">
         <attr name="android:textSize" />
         <attr name="android:fontFamily" />
-        <attr name="username" format="string"/>
-        <attr name="userEmail" format="string"/>
+        <attr name="username" format="string" />
+        <attr name="userEmail" format="string" />
         <attr name="menuTextPadding" format="dimension" />
         <attr name="menuTextPaddingTop" format="dimension" />
         <attr name="menuTextPaddingStart" format="dimension" />
@@ -16,22 +16,12 @@
         <attr name="hamburgerColor" format="color" />
         <attr name="hamburgerInnerBarColor" format="color" />
         <attr name="profileImg" format="reference" />
-        <attr name="profileImgBorderWidth" format="dimension"/>
-        <attr name="profileImgBorderColor" format="color"/>
-        <attr name="profileImgMarginTop" format="dimension"/>
-        <attr name="profileImgMarginEnd" format="dimension"/>
+        <attr name="profileImgBorderWidth" format="dimension" />
+        <attr name="profileImgBorderColor" format="color" />
+        <attr name="profileImgMarginTop" format="dimension" />
+        <attr name="profileImgMarginEnd" format="dimension" />
         <attr name="menuTextColor" format="color" />
         <attr name="menuTextArray" format="reference" />
     </declare-styleable>
-
-    <array name="menuItems">
-        <item>Home</item>
-        <item>About Us</item>
-        <item>Wallet</item>
-        <item>My Trips</item>
-        <item>Contributors</item>
-        <item>Privacy Policy</item>
-        <item>Logout</item>
-    </array>
 
 </resources>

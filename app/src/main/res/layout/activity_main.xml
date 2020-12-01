@@ -8,17 +8,17 @@
 
     <com.viceboy.circularrevealdrawer.widget.CircularRevealDrawer
         android:id="@+id/crdMenu"
-        app:hamburgerColor="@color/colorPrimaryDark"
-        app:menuTextArray="@array/menuItems"
-        android:textSize="16sp"
-        app:username="Alexander"
-        app:userEmail="alex@redmail.com"
-        app:profileImg="@drawable/avatar_sample"
-        app:innerCircularColor="@color/colorPrimary"
-        app:outerCircularColor="@color/colorPrimaryDark"
-        app:menuTextColor="@android:color/white"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"
+        android:textSize="16sp"
+        app:hamburgerColor="@color/colorPrimaryDark"
+        app:innerCircularColor="@color/colorPrimary"
+        app:menuTextArray="@array/menuItems"
+        app:menuTextColor="@android:color/white"
+        app:outerCircularColor="@color/colorPrimaryDark"
+        app:profileImg="@drawable/avatar_sample"
+        app:userEmail="alex@redmail.com"
+        app:username="Alexander" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideStart"
